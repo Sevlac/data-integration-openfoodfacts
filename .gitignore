@@ -1,0 +1,55 @@
+# ============================
+#  PYTHON
+# ============================
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# ============================
+#  SPARK & TEMPORARY FILES
+# ============================
+
+# Spark temporary files
+metastore_db/
+spark-warehouse/
+derby.log
+*.crc
+*_SUCCESS
+
+# Generic temp / cache
+tmp/
+temp/
+*.tmp
+
+# ============================
+#  EDITORS / OS FILES
+# ============================
+
+# VSCode
+.vscode/
+
+# PyCharm / IntelliJ
+.idea/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# ============================
+#  OTHER
+# ============================
+
+*.swp
+*.swo
