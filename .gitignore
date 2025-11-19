@@ -53,3 +53,6 @@ Thumbs.db
 
 *.swp
 *.swo
+
+#csv openfood fact
+data/raw/

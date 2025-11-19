@@ -1,0 +1,10 @@
+pyspark
+pandas
+numpy
+
+mysql-connector-python
+SQLAlchemy
+python-dotenv
+
+pytest
+jupyterlab
