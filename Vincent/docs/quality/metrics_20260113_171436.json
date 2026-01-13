@@ -1,0 +1,7 @@
+{
+  "source": "OpenFoodFacts CSV",
+  "nb_lus": 4271392,
+  "nb_apres_dedup": 2561074,
+  "pct_nutriscore": 0.9999921907762134,
+  "nb_sugars_anomalies": 0
+}
