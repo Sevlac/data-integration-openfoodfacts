@@ -1,0 +1,12 @@
+{
+  "source": "OpenFoodFacts CSV",
+  "timestamp": "2026-01-26T23:25:26.770250",
+  "duree_minutes": 12.133333333333333,
+  "nombre_lignes_initial": 418676,
+  "nombre_lignes_traitees": 418651,
+  "nombre_lignes_rejetees": 25,
+  "taux_completude_moyen": 1.0,
+  "pct_nutriscore": 1.0,
+  "nb_sugars_anomalies": 0,
+  "status": "SUCCESS"
+}
