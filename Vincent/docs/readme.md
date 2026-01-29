@@ -92,41 +92,6 @@ openfood_etl/
 └── metrics/
     └── metrics_AAAAMMDD_HHMMSS.json # Métriques d'exécution 
 ```
-
----
-
-## 🚀 Installation et démarrage rapide
-
-### Prérequis
-
-- Python 3.11+
-- MySQL Server 8.0+
-- Java 8 ou 11 (pour Spark)
-- 4 GB RAM minimum
-
-### 1. Installation des dépendances
-
-```bash
-pip install -r requirements.txt
-```
-
-**requirements.txt:**
-```
-pyspark==3.5.0
-mysql-connector-python==8.0.33
-jupyter==1.0.0
-```
-
-### 3. Exécution du pipeline
-
-```bash
-# Option 1 : Via Jupyter
-jupyter notebook etl/pipeline_etl.ipynb
-
-# Option 2 : Export et exécution Python
-jupyter nbconvert --to python etl/pipeline_etl.ipynb
-python etl/pipeline_etl.py
-```
 ---
 
 ## 🔄 Flux de traitement détaillé

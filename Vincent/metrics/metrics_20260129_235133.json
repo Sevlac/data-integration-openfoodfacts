@@ -1,7 +1,7 @@
 {
   "source": "OpenFoodFacts CSV",
-  "timestamp": "2026-01-26T23:05:06.593907",
-  "duree_minutes": 8.85,
+  "timestamp": "2026-01-29T23:49:52.001780",
+  "duree_minutes": 6.55,
   "nombre_lignes_initial": 418676,
   "nombre_lignes_traitees": 418651,
   "nombre_lignes_rejetees": 25,
