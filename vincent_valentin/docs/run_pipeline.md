@@ -23,15 +23,9 @@ pip install -r requirements.txt
 ```
 **Redemarrer le kernel après les installations**
 
-**requirements.txt:**
-```
-pyspark==3.5.0
-mysql-connector-python==8.0.33
-jupyter==1.0.0
-```
 ### 3. Création folder data
 
-**Dans le répertoir Vincent créer un dossier data et placer le fichier csv télécharger **
+**Dans le répertoir Vincent créer un dossier data et placer le fichier csv télécharger**
 
 - -> [Open Food Facts Data](https://static.openfoodfacts.org/data/en.openfoodfacts.org.products.csv.gz) 
 
